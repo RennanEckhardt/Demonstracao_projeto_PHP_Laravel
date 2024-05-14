@@ -5,7 +5,7 @@ Para o desafio, foi desenvolvido uma API em PHP usando o Framework Laravel que c
 # Como utilizar
 ## Clonar o repositório
 <pre>
-<code>git clone https://github.com/RennanEckhardt/Estudo-PHP-Laravel.git</code>
+<code>git clone https://github.com/RennanEckhardt/Demonstracao_projeto_PHP_Laravel.git</code>
 </pre>
 ## Rodar a API
 <pre>
